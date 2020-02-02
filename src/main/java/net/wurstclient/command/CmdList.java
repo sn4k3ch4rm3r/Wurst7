@@ -32,14 +32,13 @@ public final class CmdList
 	public final FollowCmd followCmd = new FollowCmd();
 	public final FriendsCmd friendsCmd = new FriendsCmd();
 	public final GetPosCmd getPosCmd = new GetPosCmd();
-	// public final GhostHandCmd ghostHandCmd = new GhostHandCmd();
 	public final GiveCmd giveCmd = new GiveCmd();
 	public final GmCmd gmCmd = new GmCmd();
 	public final GoToCmd goToCmd = new GoToCmd();
 	public final HelpCmd helpCmd = new HelpCmd();
-	// public final InvseeCmd invseeCmd = new InvseeCmd();
+	public final InvseeCmd invseeCmd = new InvseeCmd();
 	// public final IpCmd ipCmd = new IpCmd();
-	// public final JumpCmd jumpCmd = new JumpCmd();
+	public final JumpCmd jumpCmd = new JumpCmd();
 	public final LeaveCmd leaveCmd = new LeaveCmd();
 	public final ModifyCmd modifyCmd = new ModifyCmd();
 	public final PathCmd pathCmd = new PathCmd();
