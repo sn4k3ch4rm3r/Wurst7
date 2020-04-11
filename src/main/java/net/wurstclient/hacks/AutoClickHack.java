@@ -1,12 +1,9 @@
 package net.wurstclient.hacks;
 
-import java.net.Inet4Address;
 import java.util.Date;
 import java.util.Timer;
 import java.util.TimerTask;
-
 import net.wurstclient.Category;
-import net.wurstclient.WurstClient;
 import net.wurstclient.events.UpdateListener;
 import net.wurstclient.hack.Hack;
 import net.wurstclient.settings.EnumSetting;
